@@ -25,7 +25,7 @@ const layout = ({ children }: CardLayout) => {
                     />
                 </svg>
 
-                <Link href="/">Voltar</Link>
+                <Link href="/">Back</Link>
             </div>
             <div className="mt-12">{children}</div>
         </div>
